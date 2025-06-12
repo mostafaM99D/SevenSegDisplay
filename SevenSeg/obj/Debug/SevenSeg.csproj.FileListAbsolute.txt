@@ -1,0 +1,10 @@
+D:\Coding\MyProjects\SevenSeg\bin\Debug\SevenSeg.exe.config
+D:\Coding\MyProjects\SevenSeg\bin\Debug\SevenSeg.exe
+D:\Coding\MyProjects\SevenSeg\bin\Debug\SevenSeg.pdb
+D:\Coding\MyProjects\SevenSeg\obj\Debug\SevenSeg.csproj.AssemblyReference.cache
+D:\Coding\MyProjects\SevenSeg\obj\Debug\SevenSeg.Properties.Resources.resources
+D:\Coding\MyProjects\SevenSeg\obj\Debug\SevenSeg.csproj.GenerateResource.cache
+D:\Coding\MyProjects\SevenSeg\obj\Debug\SevenSeg.csproj.CoreCompileInputs.cache
+D:\Coding\MyProjects\SevenSeg\obj\Debug\SevenSeg.exe
+D:\Coding\MyProjects\SevenSeg\obj\Debug\SevenSeg.pdb
+D:\Coding\MyProjects\SevenSeg\obj\Debug\SevenSeg.SevenSeg.resources
